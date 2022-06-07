@@ -16,5 +16,11 @@
 - One of the output exports of the CloudFormation script should be the public URL of the LoadBalancer. Bonus points if you add http:// in front of the load balancer DNS Name in the output, for convenience.
 
 
+
 **My Infrastructure Design**
 ![Project2-diagram](https://user-images.githubusercontent.com/60219673/172361394-b71211bd-2560-4760-a403-b5e3e2b149aa.jpeg)
+
+
+
+**Application URL**
+http://proje-webap-dq5ejygtqjzp-2102245037.us-east-1.elb.amazonaws.com/
